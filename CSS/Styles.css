@@ -1,0 +1,38 @@
+      /* Estilos para hacer el header y el footer responsivos */
+      header, footer {
+        background-color: #0164b1;
+        color: #fff; /* Color de texto blanco */
+        padding: 10px;
+        text-align: center;
+    }
+
+    p {
+        text-align: justify;
+        margin: 30px;
+    }
+
+    img {
+        display: block;
+        margin: auto;
+        max-width: 100%;
+    }
+
+    body {
+        font-family: Arial, sans-serif;
+        font-size: 18px;
+        line-height: 1.5;
+        color: #744040;
+        background-color: #f2f2f2;
+    }
+
+    .tweet-container {
+        max-width: 500px;
+        width: 100%;
+        margin: 0 auto;
+        overflow-x: auto;
+    }
+
+    .tweet {
+        margin: 0 auto;
+        text-align: center;
+    }
